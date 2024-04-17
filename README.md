@@ -20,7 +20,3 @@
 
 Apaixonado por programação!
 
-
-
-
-# ![snake gif](https://github.com/nerdedeharvard/nerddeharvard/blob/output/github-contribution-grid-snake.gif)
