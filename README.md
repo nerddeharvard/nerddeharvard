@@ -5,7 +5,6 @@
 [![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1216303586573811865)
 
 ![nerdedeharvard GitHub stats](https://github-readme-stats.vercel.app/api?username=nerddehavard&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerddeharvard)](https://github.com/nerdedeharvard/github-readme-stats)
 
 ## tecnologia que eu uso no meu dia
