@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**nerddeharvard/nerddeharvard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### olá, eu sou Alan Robert✋
+[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alanrobert/?next=%2F)
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-robert-a717b72b3/)
+[![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1216303586573811865)
 
-Here are some ideas to get you started:
+![nerdedehavard GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdedehavard&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## tecnologia que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+  <img aling= "center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img aling= "center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img aling= "center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img aling= "center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img aling= "center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<div><br/>
+
+Apaixonado por programação!
